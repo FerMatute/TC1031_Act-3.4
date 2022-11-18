@@ -6,7 +6,9 @@ En este repositorio encontrarás los archivos de entrada, así como las salidas 
 ```
 // =========================================================
 // File: main.cpp
-// Author: Fernando Matute - A00833375
+// Author: Alain Vicencio - A01620758
+// Author: Fernnado Matute - A00833375
+// Author: Ricardo Navarro - A01708825		   
 // Date: 18/11/2022
 // =========================================================
 ```
