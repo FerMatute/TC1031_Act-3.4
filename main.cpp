@@ -38,7 +38,7 @@ int main(int argc, char* argv[]) {
 
 	mysolution.open(argv[2]);
 
-	int tam, sum;
+	unsigned int tam, sum;
 	vector <int> numeros;
 	vector <int> sumas;
 	sum = 0;
